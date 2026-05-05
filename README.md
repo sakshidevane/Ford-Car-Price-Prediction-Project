@@ -14,7 +14,7 @@ This project demonstrates a complete **Machine Learning workflow**, including da
 
 ## 🔗 Kaggle Project Link
 
-👉 (https://www.kaggle.com/code/sakshidevane/ford-car-price-prediction-model)
+👉[ (https://www.kaggle.com/code/sakshidevane/ford-car-price-prediction-model)](https://www.kaggle.com/code/sakshidevane/ford-car-price-prediction-model)
 
 ---
 
